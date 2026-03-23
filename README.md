@@ -81,12 +81,12 @@ Public Sector Lending
 SME Financing Share
 
 ## 5. Model Evaluation
-MAPE < 5%
-MASE < 0.5
-Theil’s U = 0.29
+* MAPE < 5%
+* MASE < 0.5
+* Theil’s U = 0.29
 
-# * Forecast closely matched actual values
-# * Residuals confirmed as white noise
+* Forecast closely matched actual values
+* Residuals confirmed as white noise
 
 ## Key Insights
 ### Strong Positive Drivers:
